@@ -26,6 +26,9 @@ O projeto foi construído utilizando as seguintes tecnologias:
 ## 🛠️ Como Executar o Projeto
 
 É muito simples! O projeto não requer instalação de pacotes ou servidores. Basta seguir os passos:
+Acesse a pagina Web https://lip.tec.br/sorteio
+
+            ou
 
 1. Clone o repositório para sua máquina local.
 2. Abra o arquivo `index.html` em seu navegador de internet preferido (Google Chrome, Firefox, etc.).
@@ -39,4 +42,5 @@ O projeto foi construído utilizando as seguintes tecnologias:
 
 ## ✒️ Autor
 
-Felipe Camargo - www.lipsan.com.br
+Felipe Camargo - www.lip.tec.br/
+
