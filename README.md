@@ -26,9 +26,10 @@ O projeto foi construído utilizando as seguintes tecnologias:
 ## 🛠️ Como Executar o Projeto
 
 É muito simples! O projeto não requer instalação de pacotes ou servidores. Basta seguir os passos:
+
 Acesse a pagina Web https://lip.tec.br/sorteio
 
-            ou
+ou
 
 1. Clone o repositório para sua máquina local.
 2. Abra o arquivo `index.html` em seu navegador de internet preferido (Google Chrome, Firefox, etc.).
@@ -43,4 +44,6 @@ Acesse a pagina Web https://lip.tec.br/sorteio
 ## ✒️ Autor
 
 Felipe Camargo - www.lip.tec.br/
+
+![Foto de perfil do GitHub](https://github.com/Lipsandf.png?size=100)
 
